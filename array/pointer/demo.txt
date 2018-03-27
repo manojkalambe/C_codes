@@ -1,0 +1,15 @@
+
+
+int = 4 byte 
+
+int *iptr = 4 byte
+
+iptr++ = iptr+4
+
+char *cptr ;
+cptr++ = cptr+1
+
+float *fptr 
+fptr++ = fptr+4
+
+fptr-- =  fptr-4
